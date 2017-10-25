@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Power_Table_Lab3", "Power_Table_Lab3\Power_Table_Lab3.csproj", "{82E24A5B-8878-4BE8-973C-61DFA262104A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B18692EC-6417-4B3A-8AFC-BDC1429E6580}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82E24A5B-8878-4BE8-973C-61DFA262104A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E24A5B-8878-4BE8-973C-61DFA262104A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E24A5B-8878-4BE8-973C-61DFA262104A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E24A5B-8878-4BE8-973C-61DFA262104A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F142465C-C895-4EB2-ADD9-7F46F38D836C}
+	EndGlobalSection
+EndGlobal
